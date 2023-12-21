@@ -1,0 +1,11 @@
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\bin\Debug\Chikuzenni.exe.config
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\bin\Debug\Chikuzenni.exe
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\bin\Debug\Chikuzenni.pdb
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.csprojAssemblyReference.cache
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.Form1.resources
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.Properties.Resources.resources
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.csproj.GenerateResource.cache
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.csproj.CoreCompileInputs.cache
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.exe
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.pdb
+C:\Users\hitac\source\repos\Chikuzenni\Chikuzenni\obj\Debug\Chikuzenni.Form2.resources
